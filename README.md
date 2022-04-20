@@ -36,4 +36,4 @@ Github is forbidden me from uploading big file even i seperate it to under 1G, s
 Feel free to post a issue if you need other clock/databit files.
 
 # Note
-I'm a noob myself. Thanks my friends' teaching and help from Mayhem discord server.
+I'm a noob myself. Thanks the helping and teaching from my friends' in Mayhem discord server.
