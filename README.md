@@ -1,4 +1,5 @@
 # 2262Scan
+### It's just I recorded from another device.LOL
 ### Replay file for portapack, uses for scan 2262 Chinese gates.
 # The [Mayhem firmware](https://github.com/eried/portapack-mayhem) support ook scan too(ook scan features by [@anzejarni](https://github.com/anzejarni) and [@cusspvz](https://github.com/cusspvz). Use it first. 
 
