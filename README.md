@@ -1,10 +1,10 @@
 # 2262Scan
-### It's just I recorded from another device.LOL
+### It's just I recorded from another device. LOL
 ### Replay file for portapack, uses for scan 2262 Chinese gates.
 # The [Mayhem firmware](https://github.com/eried/portapack-mayhem) support ook scan too(ook scan features by [@anzejarni](https://github.com/anzejarni) and [@cusspvz](https://github.com/cusspvz). Use it first. 
 
 # Usage
-PT-2262 encoder/decoder contains 13 bits for each signal. 
+PT2262/SC2262/LX2262/HS2262/HX2262 encoder contains 13 bits for each signal. 
 
 | A           | D        | S        |
 | ----------- | -------- | -------- |
