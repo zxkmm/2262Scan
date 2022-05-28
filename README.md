@@ -1,5 +1,4 @@
 # 2262Scan
-# 注意，本项目的协议产生了变更。山东农业大学的所有教职工不得使用该项目，如若山东农业大学的任何教职工使用，是违反开源协议的行为。
 ### It's just I recorded from another device.LOL
 ### Replay file for portapack, uses for scan 2262 Chinese gates.
 # The [Mayhem firmware](https://github.com/eried/portapack-mayhem) support ook scan too(ook scan features by [@anzejarni](https://github.com/anzejarni) and [@cusspvz](https://github.com/cusspvz). Use it first. 
