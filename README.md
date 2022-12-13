@@ -5,6 +5,7 @@
 | [Download](https://anningtrashbin-my.sharepoint.com/:f:/g/personal/zxkmm_anningtrashbin_onmicrosoft_com/EpZx3Kbb7QJBiEAyth9Fe6oBQq9ppsKStYs3PbijOQUyCw?e=P7cl5d) | [Download](https://anningtrashbin-my.sharepoint.com/:f:/g/personal/zxkmm_anningtrashbin_onmicrosoft_com/ErANoKAuGq9CianuBvCnj1kBb3JvxDSfZXEH2lDvjx0cHg?e=WUL6eh) | [Download](https://github.com/zxkmm/2262Scan/releases/tag/raw)|
 # 2262Scan
 ### It's just I recorded from another device. LOL
+### There's NO SOURCE CODE since these r just raw files.
 ### Replay file for portapack, uses for scan 2262 Chinese gates.
 # The [Mayhem firmware](https://github.com/eried/portapack-mayhem) support ook scan too(ook scan features by [@anzejarni](https://github.com/anzejarni) and [@cusspvz](https://github.com/cusspvz). Use it first. 
 
